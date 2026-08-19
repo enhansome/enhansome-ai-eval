@@ -1,1444 +1,1525 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ColossalEval",
+                  "description": "Unified pipeline for classic metrics plus GPT-assisted scoring across public datasets.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 422274596,
+                    "language": "Python",
+                    "last_commit": "2026-08-17T17:57:12Z",
+                    "owner": "hpcaitech",
+                    "repo": "ColossalAI",
+                    "stars": 41438
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MLflow Evaluators",
+                  "description": "Eval API that logs LLM scores next to classic experiment tracking runs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 136202695,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T12:10:54Z",
+                    "owner": "mlflow",
+                    "repo": "mlflow",
+                    "stars": 27577
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Promptfoo",
+                  "description": "Local-first CLI and dashboard for evaluating prompts, RAG flows, and agents with cost tracking and regression detection.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 633927609,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-18T22:33:59Z",
+                    "owner": "promptfoo",
+                    "repo": "promptfoo",
+                    "stars": 24370
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "OpenAI Evals",
+                  "description": "Reference harness plus registry spanning reasoning, extraction, and safety evals.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 592489166,
+                    "language": "Python",
+                    "last_commit": "2026-04-14T15:29:57Z",
+                    "owner": "openai",
+                    "repo": "evals",
+                    "stars": 19200
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DeepEval",
+                  "description": "Python unit-test style metrics for hallucination, relevance, toxicity, and bias.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 676829188,
+                    "language": "Python",
+                    "last_commit": "2026-08-17T11:05:50Z",
+                    "owner": "confident-ai",
+                    "repo": "deepeval",
+                    "stars": 17699
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Ragas",
+                  "description": "Evaluation library that grades answers, context, and grounding with pluggable scorers.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 637924634,
+                    "language": "Python",
+                    "last_commit": "2026-02-24T07:47:19Z",
+                    "owner": "vibrantlabsai",
+                    "repo": "ragas",
+                    "stars": 15376
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Prompt Flow",
+                  "description": "Flow builder with built-in evaluation DAGs, dataset runners, and CI hooks.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 660489378,
+                    "language": "Python",
+                    "last_commit": "2026-08-05T07:12:59Z",
+                    "owner": "microsoft",
+                    "repo": "promptflow",
+                    "stars": 11224
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "OpenCompass",
+                  "description": "Research harness with CascadeEvaluator, CompassRank syncing, and LLM-as-judge utilities.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 654124617,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T04:15:41Z",
+                    "owner": "open-compass",
+                    "repo": "opencompass",
+                    "stars": 7317
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ZenML",
+                  "description": "Pipeline framework that bakes evaluation steps and guardrail metrics into LLM workflows.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 314197645,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T10:11:02Z",
+                    "owner": "zenml-io",
+                    "repo": "zenml",
+                    "stars": 5553
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "lmms-eval",
+                  "description": "One-for-all multimodal evaluation toolkit supporting 100+ tasks across text, image, video, and audio.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 768612800,
+                    "language": "Python",
+                    "last_commit": "2026-08-06T02:22:23Z",
+                    "owner": "EvolvingLMMs-Lab",
+                    "repo": "lmms-eval",
+                    "stars": 4367
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TruLens",
+                  "description": "Feedback function framework for chains and agents with customizable judge models.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 309504885,
+                    "language": "Python",
+                    "last_commit": "2026-08-14T16:08:33Z",
+                    "owner": "truera",
+                    "repo": "trulens",
+                    "stars": 3514
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Inspect AI",
+                  "description": "UK AI Safety Institute framework for scripted eval plans, tool calls, and model-graded rubrics.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 718665019,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T11:42:35Z",
+                    "owner": "UKGovernmentBEIS",
+                    "repo": "inspect_ai",
+                    "stars": 2574
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Hugging Face lighteval",
+                  "description": "Toolkit powering HF leaderboards with 1k+ tasks and pluggable metrics.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 748650671,
+                    "language": "Python",
+                    "last_commit": "2026-08-11T13:10:37Z",
+                    "owner": "huggingface",
+                    "repo": "lighteval",
+                    "stars": 2522
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WFGY 3.0 (Singularity Demo)",
+                  "description": "TXT-based long-horizon robustness stress test + failure-mode map for debugging RAG / agent pipelines under sustained reasoning.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 996124831,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-08-19T06:48:05Z",
+                    "owner": "onestardao",
+                    "repo": "WFGY",
+                    "stars": 1780
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Bloom",
+                  "description": "Anthropic's open-source agentic framework for automated behavioral evaluations of frontier AI models.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1007879943,
+                    "language": "Python",
+                    "last_commit": "2026-05-07T20:47:35Z",
+                    "owner": "safety-research",
+                    "repo": "bloom",
+                    "stars": 1389
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Anthropic Model Evals",
+                  "description": "Anthropic's evaluation suite for safety, capabilities, and alignment testing of language models.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 577512074,
+                    "language": null,
+                    "last_commit": "2024-07-02T07:36:39Z",
+                    "owner": "anthropics",
+                    "repo": "evals",
+                    "stars": 420
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Aleph Alpha Eval Framework",
+                  "description": "Production-ready evaluation framework with 90+ pre-loaded benchmarks for reasoning, coding, and safety.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1039737675,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T10:33:24Z",
+                    "owner": "Aleph-Alpha-Research",
+                    "repo": "eval-framework",
+                    "stars": 41
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Core Frameworks"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Evaluators and Test Harnesses"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "UltraRAG",
+                  "description": "MCP-based RAG development framework with built-in evaluation workflows and multimodal support.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 917628875,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T11:23:56Z",
+                    "owner": "OpenBMB",
+                    "repo": "UltraRAG",
+                    "stars": 5669
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Open RAG Eval",
+                  "description": "Vectara harness with UMBRELA and AutoNuggetizer metrics that don't require golden answers.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 894677319,
+                    "language": "Python",
+                    "last_commit": "2026-06-02T21:55:43Z",
+                    "owner": "vectara",
+                    "repo": "open-rag-eval",
+                    "stars": 399
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RAGEval",
+                  "description": "Framework that auto-generates corpora, questions, and RAG rubrics for completeness.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 838780382,
+                    "language": "Python",
+                    "last_commit": "2025-04-02T20:45:47Z",
+                    "owner": "OpenBMB",
+                    "repo": "RAGEval",
+                    "stars": 235
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "R-Eval",
+                  "description": "Toolkit for robust RAG scoring aligned with the Evaluation of RAG survey taxonomy.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 722351078,
+                    "language": "Python",
+                    "last_commit": "2024-04-09T01:23:26Z",
+                    "owner": "THU-KEG",
+                    "repo": "R-Eval",
+                    "stars": 11
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "RAG Frameworks"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ColBERT",
+                  "description": "Late-interaction dense retriever with evaluation scripts for IR datasets.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 266846732,
+                    "language": "Python",
+                    "last_commit": "2025-10-14T18:50:11Z",
+                    "owner": "stanford-futuredata",
+                    "repo": "ColBERT",
+                    "stars": 3918
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MTEB",
+                  "description": "Embeddings benchmark measuring retrieval, reranking, and similarity quality.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 478037973,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T11:45:25Z",
+                    "owner": "embeddings-benchmark",
+                    "repo": "mteb",
+                    "stars": 3398
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "BEIR",
+                  "description": "Benchmark suite covering dense, sparse, and hybrid retrieval tasks.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 330622921,
+                    "language": "Python",
+                    "last_commit": "2025-10-16T06:38:03Z",
+                    "owner": "beir-cellar",
+                    "repo": "beir",
+                    "stars": 2272
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Retrieval Benchmarks"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Awesome-RAG-Reasoning",
+                  "description": "EMNLP 2025 collection of RAG + reasoning benchmarks, datasets, and implementations.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1004563738,
+                    "language": null,
+                    "last_commit": "2026-07-23T04:22:18Z",
+                    "owner": "DavidZWZ",
+                    "repo": "Awesome-RAG-Reasoning",
+                    "stars": 455
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome-RAG-Evaluation",
+                  "description": "Curated catalog of RAG evaluation metrics, datasets, and leaderboards.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 768804548,
+                    "language": "TeX",
+                    "last_commit": "2025-04-25T05:41:01Z",
+                    "owner": "YHPeter",
+                    "repo": "Awesome-RAG-Evaluation",
+                    "stars": 201
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "RAG Datasets and Surveys"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "RAG and Retrieval"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Guardrails AI",
+              "description": "Declarative validation framework that enforces schemas, correction chains, and judgments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 594609262,
+                "language": "Python",
+                "last_commit": "2026-08-18T17:51:16Z",
+                "owner": "guardrails-ai",
+                "repo": "guardrails",
+                "stars": 7300
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChainForge",
+              "description": "Visual IDE for comparing prompts, sampling models, and scoring batches with rubrics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 619234173,
+                "language": "TypeScript",
+                "last_commit": "2026-06-10T18:25:33Z",
+                "owner": "ianarawjo",
+                "repo": "ChainForge",
+                "stars": 3026
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PromptBench",
+              "description": "Benchmark suite for adversarial prompt stress tests across diverse tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 653171718,
+                "language": "Python",
+                "last_commit": "2026-02-20T18:55:32Z",
+                "owner": "microsoftarchive",
+                "repo": "promptbench",
+                "stars": 2821
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AlpacaEval",
+              "description": "Automated instruction-following evaluator with length-controlled LLM judge scoring.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 645270986,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-08-09T07:23:36Z",
+                "owner": "tatsu-lab",
+                "repo": "alpaca_eval",
+                "stars": 2012
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Prompt Evaluation & Safety"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Garak",
+              "description": "NVIDIA's adversarial testing toolkit with 100+ attack modules for prompt injection and data extraction.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 639097338,
+                "language": "Python",
+                "last_commit": "2026-08-17T22:54:09Z",
+                "owner": "NVIDIA",
+                "repo": "garak",
+                "stars": 8859
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepTeam",
+              "description": "Open-source LLM red teaming framework testing for bias, data exposure, and prompt injection vulnerabilities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 943088234,
+                "language": "Python",
+                "last_commit": "2026-08-12T19:15:34Z",
+                "owner": "confident-ai",
+                "repo": "deepteam",
+                "stars": 2546
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ARTKIT",
+              "description": "Automated multi-turn red teaming framework that simulates attacker-target interactions for jailbreak testing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 812677652,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-03-06T18:33:04Z",
+                "owner": "BCG-X-Official",
+                "repo": "artkit",
+                "stars": 170
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyRIT",
+              "description": "Microsoft's Python Risk Identification Toolkit for orchestrating LLM attack suites and red team automation.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 1191146757,
+                "language": null,
+                "last_commit": "2026-03-25T01:18:52Z",
+                "owner": "Azure",
+                "repo": "PyRIT",
+                "stars": 115
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Red Teaming & Adversarial Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenAI Cookbook Evals",
+              "description": "Practical notebooks showing how to build custom evals.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 468576060,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-19T09:58:29Z",
+                "owner": "openai",
+                "repo": "openai-cookbook",
+                "stars": 75349
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Instruction-Following Evaluation (IFEval)",
+              "description": "Constraint-verification prompts for automatically checking instruction compliance.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151619717,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-16T18:45:46Z",
+                "owner": "google-research",
+                "repo": "google-research",
+                "stars": 38579
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Datasets and Methodology"
+        }
+      ],
       "title": "Tools"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Evaluators and Test Harnesses"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "ColossalEval",
-          "description": "Unified pipeline for classic metrics plus GPT-assisted scoring across public datasets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T17:57:12Z",
-            "owner": "hpcaitech",
-            "repo": "ColossalAI",
-            "stars": 41438
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MLflow Evaluators",
-          "description": "Eval API that logs LLM scores next to classic experiment tracking runs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-19T00:36:23Z",
-            "owner": "mlflow",
-            "repo": "mlflow",
-            "stars": 27572
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Promptfoo",
-          "description": "Local-first CLI and dashboard for evaluating prompts, RAG flows, and agents with cost tracking and regression detection.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T22:33:59Z",
-            "owner": "promptfoo",
-            "repo": "promptfoo",
-            "stars": 24355
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenAI Evals",
-          "description": "Reference harness plus registry spanning reasoning, extraction, and safety evals.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-14T15:29:57Z",
-            "owner": "openai",
-            "repo": "evals",
-            "stars": 19196
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeepEval",
-          "description": "Python unit-test style metrics for hallucination, relevance, toxicity, and bias.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T11:05:50Z",
-            "owner": "confident-ai",
-            "repo": "deepeval",
-            "stars": 17683
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ragas",
-          "description": "Evaluation library that grades answers, context, and grounding with pluggable scorers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-24T07:47:19Z",
-            "owner": "vibrantlabsai",
-            "repo": "ragas",
-            "stars": 15366
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Prompt Flow",
-          "description": "Flow builder with built-in evaluation DAGs, dataset runners, and CI hooks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-05T07:12:59Z",
-            "owner": "microsoft",
-            "repo": "promptflow",
-            "stars": 11224
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenCompass",
-          "description": "Research harness with CascadeEvaluator, CompassRank syncing, and LLM-as-judge utilities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-19T04:15:41Z",
-            "owner": "open-compass",
-            "repo": "opencompass",
-            "stars": 7314
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ZenML",
-          "description": "Pipeline framework that bakes evaluation steps and guardrail metrics into LLM workflows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T19:39:58Z",
-            "owner": "zenml-io",
-            "repo": "zenml",
-            "stars": 5552
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lmms-eval",
-          "description": "One-for-all multimodal evaluation toolkit supporting 100+ tasks across text, image, video, and audio.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-06T02:22:23Z",
-            "owner": "EvolvingLMMs-Lab",
-            "repo": "lmms-eval",
-            "stars": 4366
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TruLens",
-          "description": "Feedback function framework for chains and agents with customizable judge models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T16:08:33Z",
-            "owner": "truera",
-            "repo": "trulens",
-            "stars": 3514
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Inspect AI",
-          "description": "UK AI Safety Institute framework for scripted eval plans, tool calls, and model-graded rubrics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-19T00:17:10Z",
-            "owner": "UKGovernmentBEIS",
-            "repo": "inspect_ai",
-            "stars": 2571
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hugging Face lighteval",
-          "description": "Toolkit powering HF leaderboards with 1k+ tasks and pluggable metrics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-11T13:10:37Z",
-            "owner": "huggingface",
-            "repo": "lighteval",
-            "stars": 2522
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WFGY 3.0 (Singularity Demo)",
-          "description": "TXT-based long-horizon robustness stress test + failure-mode map for debugging RAG / agent pipelines under sustained reasoning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-19T04:35:15Z",
-            "owner": "onestardao",
-            "repo": "WFGY",
-            "stars": 1779
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bloom",
-          "description": "Anthropic's open-source agentic framework for automated behavioral evaluations of frontier AI models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-07T20:47:35Z",
-            "owner": "safety-research",
-            "repo": "bloom",
-            "stars": 1388
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Anthropic Model Evals",
-          "description": "Anthropic's evaluation suite for safety, capabilities, and alignment testing of language models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-07-02T07:36:39Z",
-            "owner": "anthropics",
-            "repo": "evals",
-            "stars": 420
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Aleph Alpha Eval Framework",
-          "description": "Production-ready evaluation framework with 90+ pre-loaded benchmarks for reasoning, coding, and safety.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-19T04:14:42Z",
-            "owner": "Aleph-Alpha-Research",
-            "repo": "eval-framework",
-            "stars": 41
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LiteLLM",
+              "description": "Unified API for 100+ LLM providers with cost tracking, fallbacks, and load balancing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 671269505,
+                "language": "Python",
+                "last_commit": "2026-08-19T09:52:35Z",
+                "owner": "BerriAI",
+                "repo": "litellm",
+                "stars": 56734
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Langfuse",
+              "description": "Open-source LLM engineering platform providing tracing, eval dashboards, and prompt analytics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 642497346,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:05:54Z",
+                "owner": "langfuse",
+                "repo": "langfuse",
+                "stars": 33382
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Opik",
+              "description": "Self-hostable evaluation and observability hub with datasets, scoring jobs, and interactive traces.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 638951438,
+                "language": "Python",
+                "last_commit": "2026-08-19T11:47:33Z",
+                "owner": "comet-ml",
+                "repo": "opik",
+                "stars": 21471
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Arize Phoenix",
+              "description": "OpenTelemetry-native observability and evaluation toolkit for RAG, LLMs, and agents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 564072810,
+                "language": "Python",
+                "last_commit": "2026-08-19T10:58:26Z",
+                "owner": "Arize-ai",
+                "repo": "phoenix",
+                "stars": 11108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VoltAgent",
+              "description": "TypeScript agent framework paired with VoltOps for trace inspection and regression testing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 967530387,
+                "language": "TypeScript",
+                "last_commit": "2026-08-10T14:24:53Z",
+                "owner": "VoltAgent",
+                "repo": "voltagent",
+                "stars": 10380
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenLLMetry",
+              "description": "OpenTelemetry instrumentation for LLM traces that feed any backend or custom eval logic.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 686364232,
+                "language": "Python",
+                "last_commit": "2026-08-10T08:49:01Z",
+                "owner": "traceloop",
+                "repo": "openllmetry",
+                "stars": 7384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Helicone",
+              "description": "Open-source LLM observability platform with cost tracking, caching, and evaluation tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 595832198,
+                "language": "TypeScript",
+                "last_commit": "2026-08-16T20:26:29Z",
+                "owner": "Helicone",
+                "repo": "helicone",
+                "stars": 6083
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Giskard",
+              "description": "Testing framework for ML models with vulnerability scanning and LLM-specific detectors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 466864356,
+                "language": "Python",
+                "last_commit": "2026-08-19T09:12:44Z",
+                "owner": "Giskard-AI",
+                "repo": "giskard-oss",
+                "stars": 5758
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Agenta",
+              "description": "End-to-end LLM developer platform for prompt engineering, evaluation, and deployment.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 632871628,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:12:48Z",
+                "owner": "Agenta-AI",
+                "repo": "agenta",
+                "stars": 4490
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DocETL",
+              "description": "ETL system for complex document processing with LLMs and built-in quality checks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 826111692,
+                "language": "Python",
+                "last_commit": "2026-08-10T15:00:22Z",
+                "owner": "ucbepic",
+                "repo": "docetl",
+                "stars": 3979
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenLIT",
+              "description": "Telemetry instrumentation for LLM apps with built-in quality metrics and guardrail hooks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 747319327,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T10:35:57Z",
+                "owner": "openlit",
+                "repo": "openlit",
+                "stars": 2700
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UpTrain",
+              "description": "OSS/hosted evaluation suite with 20+ checks, RCA tooling, and LlamaIndex integrations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 562754304,
+                "language": "Python",
+                "last_commit": "2024-08-18T13:30:44Z",
+                "owner": "uptrain-ai",
+                "repo": "uptrain",
+                "stars": 2359
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mirascope",
+              "description": "Python toolkit for building LLM applications with structured outputs and evaluation utilities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 727495773,
+                "language": "Python",
+                "last_commit": "2026-08-19T00:15:31Z",
+                "owner": "Mirascope",
+                "repo": "mirascope",
+                "stars": 1522
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rhesis",
+              "description": "Collaborative testing platform with automated test generation and multi-turn conversation simulation for LLM and agentic applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 870296864,
+                "language": "Python",
+                "last_commit": "2026-08-19T12:04:09Z",
+                "owner": "rhesis-ai",
+                "repo": "rhesis",
+                "stars": 389
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "traceAI",
+              "description": "Open-source multi-modal tracing and diagnostics framework for LLM, RAG, and agent workflows built on OpenTelemetry.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 966544022,
+                "language": "Python",
+                "last_commit": "2026-08-11T12:50:10Z",
+                "owner": "future-agi",
+                "repo": "traceAI",
+                "stars": 213
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lilac",
+              "description": "Data curation tool for exploring and enriching datasets with semantic search and clustering.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1096766474,
+                "language": null,
+                "last_commit": "2025-11-14T23:11:18Z",
+                "owner": "lilacai",
+                "repo": "lilac",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Open Source Platforms"
         }
       ],
-      "title": "Core Frameworks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "RAG and Retrieval"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "UltraRAG",
-          "description": "MCP-based RAG development framework with built-in evaluation workflows and multimodal support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T03:24:42Z",
-            "owner": "OpenBMB",
-            "repo": "UltraRAG",
-            "stars": 5670
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Open RAG Eval",
-          "description": "Vectara harness with UMBRELA and AutoNuggetizer metrics that don't require golden answers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-02T21:55:43Z",
-            "owner": "vectara",
-            "repo": "open-rag-eval",
-            "stars": 399
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RAGEval",
-          "description": "Framework that auto-generates corpora, questions, and RAG rubrics for completeness.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-02T20:45:47Z",
-            "owner": "OpenBMB",
-            "repo": "RAGEval",
-            "stars": 235
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "R-Eval",
-          "description": "Toolkit for robust RAG scoring aligned with the Evaluation of RAG survey taxonomy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-09T01:23:26Z",
-            "owner": "THU-KEG",
-            "repo": "R-Eval",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "RAG Frameworks"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ColBERT",
-          "description": "Late-interaction dense retriever with evaluation scripts for IR datasets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-10-14T18:50:11Z",
-            "owner": "stanford-futuredata",
-            "repo": "ColBERT",
-            "stars": 3917
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MTEB",
-          "description": "Embeddings benchmark measuring retrieval, reranking, and similarity quality.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T12:14:53Z",
-            "owner": "embeddings-benchmark",
-            "repo": "mteb",
-            "stars": 3398
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BEIR",
-          "description": "Benchmark suite covering dense, sparse, and hybrid retrieval tasks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-10-16T06:38:03Z",
-            "owner": "beir-cellar",
-            "repo": "beir",
-            "stars": 2272
-          }
-        }
-      ],
-      "title": "Retrieval Benchmarks"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome-RAG-Reasoning",
-          "description": "EMNLP 2025 collection of RAG + reasoning benchmarks, datasets, and implementations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-23T04:22:18Z",
-            "owner": "DavidZWZ",
-            "repo": "Awesome-RAG-Reasoning",
-            "stars": 453
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome-RAG-Evaluation",
-          "description": "Curated catalog of RAG evaluation metrics, datasets, and leaderboards.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2025-04-25T05:41:01Z",
-            "owner": "YHPeter",
-            "repo": "Awesome-RAG-Evaluation",
-            "stars": 201
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RAGTruth",
-          "description": "Human-annotated dataset for measuring hallucinations and faithfulness in RAG answers.",
-          "children": []
-        }
-      ],
-      "title": "RAG Datasets and Surveys"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Guardrails AI",
-          "description": "Declarative validation framework that enforces schemas, correction chains, and judgments.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T17:51:16Z",
-            "owner": "guardrails-ai",
-            "repo": "guardrails",
-            "stars": 7298
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ChainForge",
-          "description": "Visual IDE for comparing prompts, sampling models, and scoring batches with rubrics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-10T18:25:33Z",
-            "owner": "ianarawjo",
-            "repo": "ChainForge",
-            "stars": 3026
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PromptBench",
-          "description": "Benchmark suite for adversarial prompt stress tests across diverse tasks.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2026-02-20T18:55:32Z",
-            "owner": "microsoftarchive",
-            "repo": "promptbench",
-            "stars": 2821
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AlpacaEval",
-          "description": "Automated instruction-following evaluator with length-controlled LLM judge scoring.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2025-08-09T07:23:36Z",
-            "owner": "tatsu-lab",
-            "repo": "alpaca_eval",
-            "stars": 2012
-          }
-        }
-      ],
-      "title": "Prompt Evaluation & Safety"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Garak",
-          "description": "NVIDIA's adversarial testing toolkit with 100+ attack modules for prompt injection and data extraction.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T22:54:09Z",
-            "owner": "NVIDIA",
-            "repo": "garak",
-            "stars": 8850
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeepTeam",
-          "description": "Open-source LLM red teaming framework testing for bias, data exposure, and prompt injection vulnerabilities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T19:15:34Z",
-            "owner": "confident-ai",
-            "repo": "deepteam",
-            "stars": 2529
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ARTKIT",
-          "description": "Automated multi-turn red teaming framework that simulates attacker-target interactions for jailbreak testing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2025-03-06T18:33:04Z",
-            "owner": "BCG-X-Official",
-            "repo": "artkit",
-            "stars": 170
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PyRIT",
-          "description": "Microsoft's Python Risk Identification Toolkit for orchestrating LLM attack suites and red team automation.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2026-03-25T01:18:52Z",
-            "owner": "Azure",
-            "repo": "PyRIT",
-            "stars": 115
-          }
-        }
-      ],
-      "title": "Red Teaming & Adversarial Testing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OpenAI Cookbook Evals",
-          "description": "Practical notebooks showing how to build custom evals.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-19T00:12:21Z",
-            "owner": "openai",
-            "repo": "openai-cookbook",
-            "stars": 75338
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Instruction-Following Evaluation (IFEval)",
-          "description": "Constraint-verification prompts for automatically checking instruction compliance.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-16T18:45:46Z",
-            "owner": "google-research",
-            "repo": "google-research",
-            "stars": 38576
-          }
-        }
-      ],
-      "title": "Datasets and Methodology"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Platforms"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "LiteLLM",
-          "description": "Unified API for 100+ LLM providers with cost tracking, fallbacks, and load balancing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-19T04:55:07Z",
-            "owner": "BerriAI",
-            "repo": "litellm",
-            "stars": 56702
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LM Evaluation Harness",
+              "description": "Standard harness for scoring autoregressive models on dozens of tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 290909192,
+                "language": "Python",
+                "last_commit": "2026-08-14T09:42:10Z",
+                "owner": "EleutherAI",
+                "repo": "lm-evaluation-harness",
+                "stars": 13716
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BIG-bench",
+              "description": "Collaborative benchmark probing reasoning, commonsense, and long-tail tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 330044683,
+                "language": "Python",
+                "last_commit": "2024-07-19T11:57:37Z",
+                "owner": "google",
+                "repo": "BIG-bench",
+                "stars": 3248
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MMLU",
+              "description": "Massive multitask language understanding benchmark for academic and professional subjects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 293649366,
+                "language": "Python",
+                "last_commit": "2023-05-28T18:28:58Z",
+                "owner": "hendrycks",
+                "repo": "test",
+                "stars": 1609
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AGIEval",
+              "description": "Human-centric standardized exams spanning entrance tests, legal, and math scenarios.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 619121820,
+                "language": "Python",
+                "last_commit": "2024-06-13T14:20:51Z",
+                "owner": "ruixiangcui",
+                "repo": "AGIEval",
+                "stars": 777
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MMLU-Pro",
+              "description": "Harder 10-choice extension focused on reasoning-rich, low-leakage questions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 801798568,
+                "language": "Python",
+                "last_commit": "2026-03-18T03:57:33Z",
+                "owner": "TIGER-AI-Lab",
+                "repo": "MMLU-Pro",
+                "stars": 419
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LLM-Uncertainty-Bench",
+              "description": "Adds uncertainty-aware scoring across QA, RC, inference, dialog, and summarization.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 746296068,
+                "language": "Python",
+                "last_commit": "2024-01-30T04:50:08Z",
+                "owner": "smartyfh",
+                "repo": "LLM-Uncertainty-Bench",
+                "stars": 263
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LLMBar",
+              "description": "Meta-eval testing whether LLM judges can spot instruction-following failures.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 703842519,
+                "language": "Python",
+                "last_commit": "2024-07-08T02:21:13Z",
+                "owner": "princeton-nlp",
+                "repo": "LLMBar",
+                "stars": 140
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CommonGen-Eval",
+              "description": "GPT-4 judged CommonGen-lite suite for constrained commonsense text generation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 738787172,
+                "language": "Python",
+                "last_commit": "2024-03-21T00:28:45Z",
+                "owner": "allenai",
+                "repo": "CommonGen-Eval",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PertEval",
+              "description": "Knowledge-invariant perturbations to debias multiple-choice accuracy inflation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 848103993,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-10-30T03:14:11Z",
+                "owner": "aigc-apps",
+                "repo": "PertEval",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General"
         },
         {
-          "node_type": "item",
-          "title": "Langfuse",
-          "description": "Open-source LLM engineering platform providing tracing, eval dashboards, and prompt analytics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T19:52:28Z",
-            "owner": "langfuse",
-            "repo": "langfuse",
-            "stars": 33357
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RULER",
+              "description": "NVIDIA's synthetic long-context benchmark with configurable sequence length and 13 tasks across 4 categories.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 784470957,
+                "language": "Python",
+                "last_commit": "2026-07-22T17:32:53Z",
+                "owner": "NVIDIA",
+                "repo": "RULER",
+                "stars": 1606
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InfiniteBench",
+              "description": "First LLM benchmark with average data length surpassing 100K tokens across 12 tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 722086387,
+                "language": "Python",
+                "last_commit": "2024-09-25T20:06:30Z",
+                "owner": "OpenBMB",
+                "repo": "InfiniteBench",
+                "stars": 390
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LV-Eval",
+              "description": "Long-context suite with five length tiers up to 256K tokens and distraction controls.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 753173247,
+                "language": "Python",
+                "last_commit": "2024-08-31T05:07:00Z",
+                "owner": "infinigence",
+                "repo": "LVEval",
+                "stars": 78
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Long Context"
         },
         {
-          "node_type": "item",
-          "title": "Opik",
-          "description": "Self-hostable evaluation and observability hub with datasets, scoring jobs, and interactive traces.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-19T02:59:36Z",
-            "owner": "comet-ml",
-            "repo": "opik",
-            "stars": 21456
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MBPP",
+              "description": "Mostly Basic Programming Problems benchmark for small coding tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151619717,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-16T18:45:46Z",
+                "owner": "google-research",
+                "repo": "google-research",
+                "stars": 38579
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HumanEval",
+              "description": "Unit-test-based benchmark for code synthesis and docstring reasoning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 383601290,
+                "language": "Python",
+                "last_commit": "2025-01-17T18:22:17Z",
+                "owner": "openai",
+                "repo": "human-eval",
+                "stars": 3345
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MATH",
+              "description": "Competition-level math benchmark targeting multi-step symbolic reasoning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 337614098,
+                "language": "Python",
+                "last_commit": "2025-09-06T18:25:04Z",
+                "owner": "hendrycks",
+                "repo": "math",
+                "stars": 1383
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FinEval",
+              "description": "Chinese financial QA and reasoning benchmark across regulation, accounting, and markets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 677947508,
+                "language": "Python",
+                "last_commit": "2025-06-23T03:39:27Z",
+                "owner": "SUFE-AIFLM-Lab",
+                "repo": "FinEval",
+                "stars": 284
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LAiW",
+              "description": "Legal benchmark covering retrieval, foundation inference, and complex case applications in Chinese law.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 687351810,
+                "language": "Python",
+                "last_commit": "2024-07-03T01:56:29Z",
+                "owner": "Dai-shen",
+                "repo": "LAiW",
+                "stars": 91
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Narrative Scorer",
+              "description": "Six-dimension automated evaluation for Chinese autobiographical memory narratives in digital reminiscence therapy, measuring event richness, coherence, emotional depth, and identity integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1187266395,
+                "language": "Python",
+                "last_commit": "2026-04-28T16:31:31Z",
+                "owner": "cittaverse",
+                "repo": "narrative-scorer",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Domain"
         },
         {
-          "node_type": "item",
-          "title": "Arize Phoenix",
-          "description": "OpenTelemetry-native observability and evaluation toolkit for RAG, LLMs, and agents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T23:49:12Z",
-            "owner": "Arize-ai",
-            "repo": "phoenix",
-            "stars": 11101
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SWE-bench",
+              "description": "Real-world GitHub issue resolution benchmark for coding agents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 700117650,
+                "language": "Python",
+                "last_commit": "2026-08-18T23:53:40Z",
+                "owner": "SWE-bench",
+                "repo": "SWE-bench",
+                "stars": 5667
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AgentBench",
+              "description": "Evaluates LLMs acting as agents across simulated domains like games and coding.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 671759870,
+                "language": "Python",
+                "last_commit": "2026-02-08T17:01:05Z",
+                "owner": "THUDM",
+                "repo": "AgentBench",
+                "stars": 3675
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SuperCLUE-Agent",
+              "description": "Chinese agent eval covering tool use, planning, long/short-term memory, and APIs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 707124929,
+                "language": null,
+                "last_commit": "2023-11-09T03:37:30Z",
+                "owner": "CLUEbenchmark",
+                "repo": "SuperCLUE-Agent",
+                "stars": 96
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Agent"
         },
         {
-          "node_type": "item",
-          "title": "VoltAgent",
-          "description": "TypeScript agent framework paired with VoltOps for trace inspection and regression testing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-10T14:24:53Z",
-            "owner": "VoltAgent",
-            "repo": "voltagent",
-            "stars": 10377
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MMT-Bench",
+              "description": "31K+ questions across image, text, video, and point cloud modalities with 162 subtasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 788503457,
+                "language": "Python",
+                "last_commit": "2026-04-06T12:08:19Z",
+                "owner": "OpenGVLab",
+                "repo": "MMT-Bench",
+                "stars": 119
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Multimodal"
         },
         {
-          "node_type": "item",
-          "title": "OpenLLMetry",
-          "description": "OpenTelemetry instrumentation for LLM traces that feed any backend or custom eval logic.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-10T08:49:01Z",
-            "owner": "traceloop",
-            "repo": "openllmetry",
-            "stars": 7383
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Helicone",
-          "description": "Open-source LLM observability platform with cost tracking, caching, and evaluation tools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-16T20:26:29Z",
-            "owner": "Helicone",
-            "repo": "helicone",
-            "stars": 6082
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Giskard",
-          "description": "Testing framework for ML models with vulnerability scanning and LLM-specific detectors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T03:50:37Z",
-            "owner": "Giskard-AI",
-            "repo": "giskard-oss",
-            "stars": 5757
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Agenta",
-          "description": "End-to-end LLM developer platform for prompt engineering, evaluation, and deployment.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T20:33:49Z",
-            "owner": "Agenta-AI",
-            "repo": "agenta",
-            "stars": 4489
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DocETL",
-          "description": "ETL system for complex document processing with LLMs and built-in quality checks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-10T15:00:22Z",
-            "owner": "ucbepic",
-            "repo": "docetl",
-            "stars": 3976
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenLIT",
-          "description": "Telemetry instrumentation for LLM apps with built-in quality metrics and guardrail hooks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T10:35:57Z",
-            "owner": "openlit",
-            "repo": "openlit",
-            "stars": 2698
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "UpTrain",
-          "description": "OSS/hosted evaluation suite with 20+ checks, RCA tooling, and LlamaIndex integrations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-18T13:30:44Z",
-            "owner": "uptrain-ai",
-            "repo": "uptrain",
-            "stars": 2358
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mirascope",
-          "description": "Python toolkit for building LLM applications with structured outputs and evaluation utilities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-19T00:15:31Z",
-            "owner": "Mirascope",
-            "repo": "mirascope",
-            "stars": 1522
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rhesis",
-          "description": "Collaborative testing platform with automated test generation and multi-turn conversation simulation for LLM and agentic applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T11:57:41Z",
-            "owner": "rhesis-ai",
-            "repo": "rhesis",
-            "stars": 389
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "traceAI",
-          "description": "Open-source multi-modal tracing and diagnostics framework for LLM, RAG, and agent workflows built on OpenTelemetry.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-11T12:50:10Z",
-            "owner": "future-agi",
-            "repo": "traceAI",
-            "stars": 213
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lilac",
-          "description": "Data curation tool for exploring and enriching datasets with semantic search and clustering.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-11-14T23:11:18Z",
-            "owner": "lilacai",
-            "repo": "lilac",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lunary",
-          "description": "Production toolkit for LLM apps with tracing, prompt management, and evaluation pipelines.",
-          "children": []
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AdvBench",
+              "description": "Adversarial prompt benchmark for jailbreak and misuse resistance measurement.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 671271357,
+                "language": "Python",
+                "last_commit": "2024-08-02T06:02:18Z",
+                "owner": "llm-attacks",
+                "repo": "llm-attacks",
+                "stars": 4761
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TruthfulQA",
+              "description": "Measures factuality and hallucination propensity via adversarially written questions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 399630138,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-01-16T03:13:08Z",
+                "owner": "sylinrl",
+                "repo": "TruthfulQA",
+                "stars": 939
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ToxiGen",
+              "description": "Toxic language generation and classification benchmark for robustness checks.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 462012924,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-06-17T16:44:20Z",
+                "owner": "microsoft",
+                "repo": "TOXIGEN",
+                "stars": 350
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BBQ",
+              "description": "Bias-sensitive QA sets measuring stereotype reliance and ambiguous cases.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 417281011,
+                "language": "Python",
+                "last_commit": "2024-01-08T06:54:09Z",
+                "owner": "nyu-mll",
+                "repo": "BBQ",
+                "stars": 149
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Safety"
         }
       ],
-      "title": "Open Source Platforms"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Benchmarks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "LM Evaluation Harness",
-          "description": "Standard harness for scoring autoregressive models on dozens of tasks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T09:42:10Z",
-            "owner": "EleutherAI",
-            "repo": "lm-evaluation-harness",
-            "stars": 13711
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Promptfoo Examples",
+              "description": "Ready-made prompt regression suites for RAG, summarization, and agents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 633927609,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T22:33:59Z",
+                "owner": "promptfoo",
+                "repo": "promptfoo",
+                "stars": 24370
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZenML Projects",
+              "description": "End-to-end pipelines showing how to weave evaluation steps into LLMOps stacks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 454340098,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-05-15T12:55:03Z",
+                "owner": "zenml-io",
+                "repo": "zenml-projects",
+                "stars": 320
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Azure LLM Evaluation Samples",
+              "description": "Prompt Flow and Azure AI Foundry projects demonstrating hosted evals.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 796702419,
+                "language": "Python",
+                "last_commit": "2024-09-04T00:22:15Z",
+                "owner": "Azure-Samples",
+                "repo": "llm-evaluation",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Arize Phoenix AI Chatbot",
+              "description": "Next.js chatbot with Phoenix tracing, dataset replays, and evaluation jobs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 846162675,
+                "language": "TypeScript",
+                "last_commit": "2024-08-27T21:51:03Z",
+                "owner": "Arize-ai",
+                "repo": "phoenix-ai-chatbot",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deepchecks QA over CSV",
+              "description": "Example agent wired to Deepchecks scoring plus tracing dashboards.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 689910494,
+                "language": "Python",
+                "last_commit": "2026-03-01T10:14:03Z",
+                "owner": "deepchecks",
+                "repo": "qa-over-csv",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenAI Evals Demo Evals",
+              "description": "Templates for extending OpenAI Evals with custom datasets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 715778896,
+                "language": "Python",
+                "last_commit": "2023-11-14T23:57:37Z",
+                "owner": "withmartian",
+                "repo": "demo-evals",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Examples"
         },
         {
-          "node_type": "item",
-          "title": "BIG-bench",
-          "description": "Collaborative benchmark probing reasoning, commonsense, and long-tail tasks.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-07-19T11:57:37Z",
-            "owner": "google",
-            "repo": "BIG-bench",
-            "stars": 3248
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MMLU",
-          "description": "Massive multitask language understanding benchmark for academic and professional subjects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-05-28T18:28:58Z",
-            "owner": "hendrycks",
-            "repo": "test",
-            "stars": 1609
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AGIEval",
-          "description": "Human-centric standardized exams spanning entrance tests, legal, and math scenarios.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-13T14:20:51Z",
-            "owner": "ruixiangcui",
-            "repo": "AGIEval",
-            "stars": 777
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MMLU-Pro",
-          "description": "Harder 10-choice extension focused on reasoning-rich, low-leakage questions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-18T03:57:33Z",
-            "owner": "TIGER-AI-Lab",
-            "repo": "MMLU-Pro",
-            "stars": 419
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LLM-Uncertainty-Bench",
-          "description": "Adds uncertainty-aware scoring across QA, RC, inference, dialog, and summarization.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-01-30T04:50:08Z",
-            "owner": "smartyfh",
-            "repo": "LLM-Uncertainty-Bench",
-            "stars": 263
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LLMBar",
-          "description": "Meta-eval testing whether LLM judges can spot instruction-following failures.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-08T02:21:13Z",
-            "owner": "princeton-nlp",
-            "repo": "LLMBar",
-            "stars": 140
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CommonGen-Eval",
-          "description": "GPT-4 judged CommonGen-lite suite for constrained commonsense text generation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-21T00:28:45Z",
-            "owner": "allenai",
-            "repo": "CommonGen-Eval",
-            "stars": 95
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PertEval",
-          "description": "Knowledge-invariant perturbations to debias multiple-choice accuracy inflation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-10-30T03:14:11Z",
-            "owner": "aigc-apps",
-            "repo": "PertEval",
-            "stars": 14
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Self-Hosted",
+              "description": "Massive catalog of self-hostable software, including observability stacks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36633370,
+                "language": null,
+                "last_commit": "2026-08-19T10:02:51Z",
+                "owner": "awesome-selfhosted",
+                "repo": "awesome-selfhosted",
+                "stars": 313650
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Machine Learning",
+              "description": "Language-specific ML resources that often host evaluation building blocks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21872392,
+                "language": "Python",
+                "last_commit": "2026-08-11T21:49:59Z",
+                "owner": "josephmisiti",
+                "repo": "awesome-machine-learning",
+                "stars": 74070
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome-Multimodal-Large-Language-Models",
+              "description": "Latest advances on multimodal LLMs including evaluation benchmarks and surveys.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 642642539,
+                "language": null,
+                "last_commit": "2026-08-14T17:17:50Z",
+                "owner": "BradyFU",
+                "repo": "Awesome-Multimodal-Large-Language-Models",
+                "stars": 17983
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome LLMOps",
+              "description": "Curated tooling for training, deployment, and monitoring of LLM apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 481805419,
+                "language": "Shell",
+                "last_commit": "2026-05-21T09:12:50Z",
+                "owner": "tensorchord",
+                "repo": "Awesome-LLMOps",
+                "stars": 5916
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome-LLM-Eval",
+              "description": "Cross-lingual (Chinese) compendium of eval tooling, papers, datasets, and leaderboards.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 632878141,
+                "language": null,
+                "last_commit": "2025-11-24T01:59:12Z",
+                "owner": "onejune2018",
+                "repo": "Awesome-LLM-Eval",
+                "stars": 656
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome RAG",
+              "description": "Broad coverage of retrieval-augmented generation techniques and tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 849220974,
+                "language": "TypeScript",
+                "last_commit": "2024-12-31T23:48:07Z",
+                "owner": "noworneverev",
+                "repo": "Awesome-RAG",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome ChainForge",
+              "description": "Ecosystem list centered on ChainForge experiments and extensions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 956021175,
+                "language": null,
+                "last_commit": "2025-10-24T01:33:03Z",
+                "owner": "loloMD",
+                "repo": "awesome_chainforge",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Related Collections"
         }
       ],
-      "title": "General"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "RULER",
-          "description": "NVIDIA's synthetic long-context benchmark with configurable sequence length and 13 tasks across 4 categories.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-22T17:32:53Z",
-            "owner": "NVIDIA",
-            "repo": "RULER",
-            "stars": 1606
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "InfiniteBench",
-          "description": "First LLM benchmark with average data length surpassing 100K tokens across 12 tasks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-09-25T20:06:30Z",
-            "owner": "OpenBMB",
-            "repo": "InfiniteBench",
-            "stars": 390
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LV-Eval",
-          "description": "Long-context suite with five length tiers up to 256K tokens and distraction controls.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-31T05:07:00Z",
-            "owner": "infinigence",
-            "repo": "LVEval",
-            "stars": 78
-          }
-        }
-      ],
-      "title": "Long Context"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MBPP",
-          "description": "Mostly Basic Programming Problems benchmark for small coding tasks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-16T18:45:46Z",
-            "owner": "google-research",
-            "repo": "google-research",
-            "stars": 38576
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HumanEval",
-          "description": "Unit-test-based benchmark for code synthesis and docstring reasoning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-17T18:22:17Z",
-            "owner": "openai",
-            "repo": "human-eval",
-            "stars": 3345
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MATH",
-          "description": "Competition-level math benchmark targeting multi-step symbolic reasoning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-06T18:25:04Z",
-            "owner": "hendrycks",
-            "repo": "math",
-            "stars": 1383
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FinEval",
-          "description": "Chinese financial QA and reasoning benchmark across regulation, accounting, and markets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-23T03:39:27Z",
-            "owner": "SUFE-AIFLM-Lab",
-            "repo": "FinEval",
-            "stars": 283
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LAiW",
-          "description": "Legal benchmark covering retrieval, foundation inference, and complex case applications in Chinese law.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-03T01:56:29Z",
-            "owner": "Dai-shen",
-            "repo": "LAiW",
-            "stars": 91
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Narrative Scorer",
-          "description": "Six-dimension automated evaluation for Chinese autobiographical memory narratives in digital reminiscence therapy, measuring event richness, coherence, emotional depth, and identity integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-28T16:31:31Z",
-            "owner": "cittaverse",
-            "repo": "narrative-scorer",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Domain"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SWE-bench",
-          "description": "Real-world GitHub issue resolution benchmark for coding agents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T23:53:40Z",
-            "owner": "SWE-bench",
-            "repo": "SWE-bench",
-            "stars": 5666
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AgentBench",
-          "description": "Evaluates LLMs acting as agents across simulated domains like games and coding.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-08T17:01:05Z",
-            "owner": "THUDM",
-            "repo": "AgentBench",
-            "stars": 3675
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SuperCLUE-Agent",
-          "description": "Chinese agent eval covering tool use, planning, long/short-term memory, and APIs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-11-09T03:37:30Z",
-            "owner": "CLUEbenchmark",
-            "repo": "SuperCLUE-Agent",
-            "stars": 96
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MetaTool Tasks",
-          "description": "Tool-calling benchmark and eval harness for agents built around LLaMA models.",
-          "children": []
-        }
-      ],
-      "title": "Agent"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MMT-Bench",
-          "description": "31K+ questions across image, text, video, and point cloud modalities with 162 subtasks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-06T12:08:19Z",
-            "owner": "OpenGVLab",
-            "repo": "MMT-Bench",
-            "stars": 119
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VisualToolBench",
-          "description": "First \"think with image\" benchmark evaluating MLLMs on tasks requiring active visual interaction.",
-          "children": []
-        }
-      ],
-      "title": "Multimodal"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "AdvBench",
-          "description": "Adversarial prompt benchmark for jailbreak and misuse resistance measurement.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-02T06:02:18Z",
-            "owner": "llm-attacks",
-            "repo": "llm-attacks",
-            "stars": 4760
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TruthfulQA",
-          "description": "Measures factuality and hallucination propensity via adversarially written questions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2025-01-16T03:13:08Z",
-            "owner": "sylinrl",
-            "repo": "TruthfulQA",
-            "stars": 939
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ToxiGen",
-          "description": "Toxic language generation and classification benchmark for robustness checks.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-06-17T16:44:20Z",
-            "owner": "microsoft",
-            "repo": "TOXIGEN",
-            "stars": 350
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BBQ",
-          "description": "Bias-sensitive QA sets measuring stereotype reliance and ambiguous cases.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-01-08T06:54:09Z",
-            "owner": "nyu-mll",
-            "repo": "BBQ",
-            "stars": 149
-          }
-        }
-      ],
-      "title": "Safety"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Resources"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Promptfoo Examples",
-          "description": "Ready-made prompt regression suites for RAG, summarization, and agents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T22:33:59Z",
-            "owner": "promptfoo",
-            "repo": "promptfoo",
-            "stars": 24355
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ZenML Projects",
-          "description": "End-to-end pipelines showing how to weave evaluation steps into LLMOps stacks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-05-15T12:55:03Z",
-            "owner": "zenml-io",
-            "repo": "zenml-projects",
-            "stars": 320
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Azure LLM Evaluation Samples",
-          "description": "Prompt Flow and Azure AI Foundry projects demonstrating hosted evals.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-09-04T00:22:15Z",
-            "owner": "Azure-Samples",
-            "repo": "llm-evaluation",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Arize Phoenix AI Chatbot",
-          "description": "Next.js chatbot with Phoenix tracing, dataset replays, and evaluation jobs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-08-27T21:51:03Z",
-            "owner": "Arize-ai",
-            "repo": "phoenix-ai-chatbot",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Deepchecks QA over CSV",
-          "description": "Example agent wired to Deepchecks scoring plus tracing dashboards.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-01T10:14:03Z",
-            "owner": "deepchecks",
-            "repo": "qa-over-csv",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenAI Evals Demo Evals",
-          "description": "Templates for extending OpenAI Evals with custom datasets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-11-14T23:57:37Z",
-            "owner": "withmartian",
-            "repo": "demo-evals",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Examples"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome Self-Hosted",
-          "description": "Massive catalog of self-hostable software, including observability stacks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-17T08:30:25Z",
-            "owner": "awesome-selfhosted",
-            "repo": "awesome-selfhosted",
-            "stars": 313581
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Machine Learning",
-          "description": "Language-specific ML resources that often host evaluation building blocks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-11T21:49:59Z",
-            "owner": "josephmisiti",
-            "repo": "awesome-machine-learning",
-            "stars": 74066
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome-Multimodal-Large-Language-Models",
-          "description": "Latest advances on multimodal LLMs including evaluation benchmarks and surveys.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-14T17:17:50Z",
-            "owner": "BradyFU",
-            "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17981
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome LLMOps",
-          "description": "Curated tooling for training, deployment, and monitoring of LLM apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-05-21T09:12:50Z",
-            "owner": "tensorchord",
-            "repo": "Awesome-LLMOps",
-            "stars": 5915
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome-LLM-Eval",
-          "description": "Cross-lingual (Chinese) compendium of eval tooling, papers, datasets, and leaderboards.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-11-24T01:59:12Z",
-            "owner": "onejune2018",
-            "repo": "Awesome-LLM-Eval",
-            "stars": 656
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome RAG",
-          "description": "Broad coverage of retrieval-augmented generation techniques and tools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-12-31T23:48:07Z",
-            "owner": "noworneverev",
-            "repo": "Awesome-RAG",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome ChainForge",
-          "description": "Ecosystem list centered on ChainForge experiments and extensions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-10-24T01:33:03Z",
-            "owner": "loloMD",
-            "repo": "awesome_chainforge",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GenAI Notes",
-          "description": "Continuously updated notes and resources on GenAI systems, evaluation, and operations.",
-          "children": []
-        }
-      ],
-      "title": "Related Collections"
-    },
-    {
-      "description": "Contributions are welcome—please read CONTRIBUTING.md for scope, entry rules, and the pull-request checklist before submitting updates.\n",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:55:06.621Z",
+    "last_updated": "2026-08-19T12:14:01.407Z",
     "original_repository": "Vvkmnn/awesome-ai-eval",
+    "original_repository_id": 1099124395,
     "original_repository_sha": "afa52ac88911b38329e73daa4e68093e6cd4a002",
     "enhanced_repository": "enhansome/enhansome-ai-eval",
     "enhanced_repository_description": null,
