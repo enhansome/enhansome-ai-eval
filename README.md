@@ -35,18 +35,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Agents
 
-* [SWE-bench](https://github.com/SWE-bench/SWE-bench) ⭐ 6,139 | 🐛 59 | 🌐 Python | 📅 2026-09-18 - Real GitHub issues that coding agents must resolve.
-* [AgentBench](https://github.com/THUDM/AgentBench) ⭐ 3,808 | 🐛 80 | 🌐 Python | 📅 2026-02-08 - LLMs acting as agents across operating system, database, web, and game environments.
-* [OSWorld](https://github.com/xlang-ai/OSWorld) ⭐ 3,250 | 🐛 170 | 🌐 Python | 📅 2026-11-02 - Computer tasks in real desktop environments for multimodal agents.
-* [tau2-bench](https://github.com/sierra-research/tau2-bench) ⭐ 2,386 | 🐛 338 | 🌐 Python | 📅 2026-11-02 - Customer-service simulations testing tool use and policy adherence against a simulated user.
-* [MLE-bench](https://github.com/openai/mle-bench) ⭐ 1,789 | 🐛 16 | 🌐 Python | 📅 2026-04-24 - Kaggle competitions measuring agents on machine learning engineering.
+* [SWE-bench](https://github.com/SWE-bench/SWE-bench) ⭐ 6,142 | 🐛 60 | 🌐 Python | 📅 2026-09-18 - Real GitHub issues that coding agents must resolve.
+* [AgentBench](https://github.com/THUDM/AgentBench) ⭐ 3,811 | 🐛 80 | 🌐 Python | 📅 2026-02-08 - LLMs acting as agents across operating system, database, web, and game environments.
+* [OSWorld](https://github.com/xlang-ai/OSWorld) ⭐ 3,251 | 🐛 170 | 🌐 Python | 📅 2026-11-02 - Computer tasks in real desktop environments for multimodal agents.
+* [tau2-bench](https://github.com/sierra-research/tau2-bench) ⭐ 2,393 | 🐛 340 | 🌐 Python | 📅 2026-11-02 - Customer-service simulations testing tool use and policy adherence against a simulated user.
+* [MLE-bench](https://github.com/openai/mle-bench) ⭐ 1,790 | 🐛 16 | 🌐 Python | 📅 2026-04-24 - Kaggle competitions measuring agents on machine learning engineering.
 * [WebArena](https://github.com/web-arena-x/webarena) ⭐ 1,640 | 🐛 106 | 🌐 Python | 📅 2025-11-26 - Self-hosted websites for evaluating autonomous web agents.
 * [BrowserGym](https://github.com/ServiceNow/BrowserGym) ⭐ 1,426 | 🐛 48 | 🌐 Python | 📅 2026-10-28 - Gym environment for web agents with access to WebArena, WorkArena, and other benchmarks.
-* [OpenAI Frontier Evals](https://github.com/openai/frontier-evals) ⭐ 1,333 | 🐛 75 | 🌐 Python | 📅 2026-10-12 - PaperBench, SWE-Lancer, and EVMbench: paper replication, freelance coding, and smart contract security tasks.
-* [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) ⭐ 1,193 | 🐛 100 | 🌐 Python | 📅 2026-10-23 - Browser agents on everyday tasks across live websites, with full action and HTTP traces.
-* [Terminal-Bench](https://github.com/harbor-framework/terminal-bench) ⭐ 1,003 | 🐛 488 | 🌐 Python | 📅 2026-11-03 - Continuously updated benchmark of difficult command-line tasks for agents.
-* [DeepResearch Bench](https://github.com/Ayanami0730/deep_research_bench) ⭐ 848 | 🐛 24 | 🌐 Python | 📅 2026-09-29 - PhD-level research tasks for scoring deep research agents on report quality and citations.
-* [MCP-Universe](https://github.com/SalesforceAIResearch/MCP-Universe) ⭐ 603 | 🐛 36 | 🌐 Python | 📅 2026-10-08 - Benchmark and framework for evaluating agents on real Model Context Protocol servers.
+* [OpenAI Frontier Evals](https://github.com/openai/frontier-evals) ⭐ 1,334 | 🐛 75 | 🌐 Python | 📅 2026-10-12 - PaperBench, SWE-Lancer, and EVMbench: paper replication, freelance coding, and smart contract security tasks.
+* [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) ⭐ 1,200 | 🐛 120 | 🌐 Python | 📅 2026-10-23 - Browser agents on everyday tasks across live websites, with full action and HTTP traces.
+* [Terminal-Bench](https://github.com/harbor-framework/terminal-bench) ⭐ 1,006 | 🐛 490 | 🌐 Python | 📅 2026-11-04 - Continuously updated benchmark of difficult command-line tasks for agents.
+* [DeepResearch Bench](https://github.com/Ayanami0730/deep_research_bench) ⭐ 847 | 🐛 24 | 🌐 Python | 📅 2026-09-29 - PhD-level research tasks for scoring deep research agents on report quality and citations.
+* [MCP-Universe](https://github.com/SalesforceAIResearch/MCP-Universe) ⭐ 604 | 🐛 36 | 🌐 Python | 📅 2026-10-08 - Benchmark and framework for evaluating agents on real Model Context Protocol servers.
 * [AppWorld](https://github.com/StonyBrookNLP/appworld) ⭐ 546 | 🐛 16 | 🌐 Python | 📅 2026-09-04 - Controllable world of apps and simulated people for benchmarking function calling and interactive coding agents.
 * [MetaTool](https://github.com/HowieHwong/MetaTool) ⭐ 121 | 🐛 1 | 🌐 Python | 📅 2024-03-21 - Tests whether models know when to use a tool and which one to pick.
 * [SuperCLUE-Agent](https://github.com/CLUEbenchmark/SuperCLUE-Agent) ⭐ 96 | 🐛 8 | 📅 2023-11-09 - Chinese agent evaluation covering tool use, planning, and memory.
@@ -65,12 +65,12 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### General
 
-* [IFEval](https://github.com/google-research/google-research/tree/master/instruction_following_eval) ⭐ 39,097 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-30 - Prompts with verifiable constraints for checking instruction compliance.
+* [IFEval](https://github.com/google-research/google-research/tree/master/instruction_following_eval) ⭐ 39,106 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-30 - Prompts with verifiable constraints for checking instruction compliance.
 * [Humanity's Last Exam](https://github.com/centerforaisafety/hle) ⭐ 1,738 | 🐛 10 | 🌐 Python | 📅 2026-09-23 - Expert-written closed-ended questions across academic subjects.
 * [MMLU](https://github.com/hendrycks/test) ⭐ 1,626 | 🐛 18 | 🌐 Python | 📅 2023-05-28 - Multiple-choice questions across academic and professional subjects. The standard knowledge benchmark; complete and no longer updated.
 * [LiveBench](https://github.com/LiveBench/LiveBench) ⭐ 1,352 | 🐛 186 | 🌐 Python | 📅 2026-10-18 - Contamination-limited benchmark with regularly refreshed questions and objective scoring.
 * [AGIEval](https://github.com/ruixiangcui/AGIEval) ⭐ 777 | 🐛 9 | 🌐 Python | 📅 2024-06-13 - Human-centric exams spanning admission tests, law, and math.
-* [RewardBench](https://github.com/allenai/reward-bench) ⭐ 748 | 🐛 5 | 🌐 Python | 📅 2026-10-14 - Benchmark and leaderboard for evaluating reward models.
+* [RewardBench](https://github.com/allenai/reward-bench) ⭐ 748 | 🐛 6 | 🌐 Python | 📅 2026-10-14 - Benchmark and leaderboard for evaluating reward models.
 * [GPQA](https://github.com/idavidrein/gpqa) ⭐ 546 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2024-09-30 - Graduate-level science questions written by experts and designed to resist web search.
 * [MMLU-Pro](https://github.com/TIGER-AI-Lab/MMLU-Pro) ⭐ 433 | 🐛 14 | 🌐 Python | 📅 2026-03-18 - Harder ten-option extension of MMLU focused on reasoning.
 * [LLM-Uncertainty-Bench](https://github.com/smartyfh/LLM-Uncertainty-Bench) ⭐ 263 | 🐛 1 | 🌐 Python | 📅 2024-01-30 - Uncertainty-aware scoring across QA, reading comprehension, inference, dialog, and summarization.
@@ -88,7 +88,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Long-Context
 
-* [RULER](https://github.com/NVIDIA/RULER) ⭐ 1,630 | 🐛 25 | 🌐 Python | 📅 2026-07-22 - Synthetic long-context tasks with configurable sequence length.
+* [RULER](https://github.com/NVIDIA/RULER) ⭐ 1,629 | 🐛 24 | 🌐 Python | 📅 2026-11-03 - Synthetic long-context tasks with configurable sequence length.
 * [InfiniteBench](https://github.com/OpenBMB/InfiniteBench) ⭐ 393 | 🐛 13 | 🌐 Python | 📅 2024-09-25 - Twelve tasks with average context length beyond 100K tokens.
 * [LV-Eval](https://github.com/infinigence/LVEval) ⭐ 78 | 🐛 7 | 🌐 Python | 📅 2024-08-31 - Five length tiers up to 256K words with distraction controls.
 * [LongBench v2](https://longbench2.github.io/) - Questions over contexts from 8K to 2M words in six task categories.
@@ -106,22 +106,22 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 ### Safety
 
 * [AdvBench](https://github.com/llm-attacks/llm-attacks) ⭐ 4,850 | 🐛 69 | 🌐 Python | 📅 2024-08-02 - Harmful behaviors and strings for measuring jailbreak resistance.
-* [CyberSecEval](https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks) ⭐ 4,462 | 🐛 90 | 🌐 Python | 📅 2026-10-30 - Meta benchmarks measuring cybersecurity risks and defensive capabilities of language models.
-* [HarmBench](https://github.com/centerforaisafety/HarmBench) ⭐ 1,083 | 🐛 42 | 🌐 Jupyter Notebook | 📅 2024-08-16 - Standardized evaluation of automated red teaming methods and model robustness.
+* [CyberSecEval](https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks) ⭐ 4,465 | 🐛 94 | 🌐 Python | 📅 2026-10-30 - Meta benchmarks measuring cybersecurity risks and defensive capabilities of language models.
+* [HarmBench](https://github.com/centerforaisafety/HarmBench) ⭐ 1,084 | 🐛 42 | 🌐 Jupyter Notebook | 📅 2024-08-16 - Standardized evaluation of automated red teaming methods and model robustness.
 * [TruthfulQA](https://github.com/sylinrl/TruthfulQA) ⭐ 958 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2025-01-16 - Adversarially written questions that tempt models into common falsehoods.
 * [JailbreakBench](https://github.com/JailbreakBench/jailbreakbench) ⭐ 692 | 🐛 12 | 🌐 Python | 📅 2025-04-04 - Robustness benchmark with a jailbreak artifact repository and leaderboard.
-* [Anthropic Model-Written Evals](https://github.com/anthropics/evals) ⭐ 443 | 🐛 2 | 📅 2024-07-02 - Model-written datasets for testing persona, sycophancy, and AI risk behaviors.
-* [Cybench](https://github.com/andyzorigin/cybench) ⭐ 353 | 🐛 92 | 🌐 HTML | 📅 2026-10-17 - Capture-the-flag tasks for evaluating the cybersecurity capabilities and risks of agents.
+* [Anthropic Model-Written Evals](https://github.com/anthropics/evals) ⭐ 444 | 🐛 2 | 📅 2024-07-02 - Model-written datasets for testing persona, sycophancy, and AI risk behaviors.
+* [Cybench](https://github.com/andyzorigin/cybench) ⭐ 355 | 🐛 92 | 🌐 HTML | 📅 2026-10-17 - Capture-the-flag tasks for evaluating the cybersecurity capabilities and risks of agents.
 * [BBQ](https://github.com/nyu-mll/BBQ) ⭐ 155 | 🐛 8 | 🌐 Python | 📅 2024-01-08 - Question sets measuring reliance on social stereotypes.
 * [SimpleSafetyTests](https://huggingface.co/datasets/Bertievidgen/SimpleSafetyTests) - 100 prompts covering five critical harm areas.
 
 ### Specialized
 
-* [MBPP](https://github.com/google-research/google-research/tree/master/mbpp) ⭐ 39,097 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-30 - Entry-level Python programming problems with tests.
-* [HumanEval](https://github.com/openai/human-eval) ⭐ 3,422 | 🐛 47 | 🌐 Python | 📅 2026-10-16 - Hand-written programming problems checked by unit tests. Complete and no longer updated.
+* [MBPP](https://github.com/google-research/google-research/tree/master/mbpp) ⭐ 39,106 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-30 - Entry-level Python programming problems with tests.
+* [HumanEval](https://github.com/openai/human-eval) ⭐ 3,424 | 🐛 47 | 🌐 Python | 📅 2026-10-16 - Hand-written programming problems checked by unit tests. Complete and no longer updated.
 * [MATH](https://github.com/hendrycks/math) ⭐ 1,395 | 🐛 20 | 🌐 Python | 📅 2025-09-06 - Competition mathematics problems with step-by-step solutions.
-* [LiveCodeBench](https://github.com/LiveCodeBench/LiveCodeBench) ⭐ 972 | 🐛 55 | 🌐 Python | 📅 2025-07-16 - Contamination-free code evaluation built from newly published competitive programming problems.
-* [FinEval](https://github.com/SUFE-AIFLM-Lab/FinEval) ⭐ 293 | 🐛 5 | 🌐 Python | 📅 2025-06-23 - Chinese financial knowledge and reasoning across regulation, accounting, and markets.
+* [LiveCodeBench](https://github.com/LiveCodeBench/LiveCodeBench) ⭐ 973 | 🐛 55 | 🌐 Python | 📅 2025-07-16 - Contamination-free code evaluation built from newly published competitive programming problems.
+* [FinEval](https://github.com/SUFE-AIFLM-Lab/FinEval) ⭐ 294 | 🐛 5 | 🌐 Python | 📅 2025-06-23 - Chinese financial knowledge and reasoning across regulation, accounting, and markets.
 * [LAiW](https://github.com/Dai-shen/LAiW) ⭐ 91 | 🐛 4 | 🌐 Python | 📅 2024-07-03 - Chinese legal benchmark covering retrieval, inference, and case application.
 * [FinanceBench](https://www.patronus.ai/announcements/patronus-ai-launches-financebench-the-industrys-first-benchmark-for-llm-performance-on-financial-questions) - Questions over public company filings.
 * [FrontierMath](https://epoch.ai/frontiermath) - Epoch AI benchmark of original, exceptionally hard mathematics problems.
@@ -131,7 +131,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Leaderboards
 
 * [Vectara Hallucination Leaderboard](https://github.com/vectara/hallucination-leaderboard) ⭐ 3,324 | 🐛 22 | 🌐 Python | 📅 2026-10-23 - Ranks LLMs by how often they hallucinate when summarizing short documents.
-* [Council of AI GSPC](https://github.com/CSOAI-ORG/councilof-ai) ⭐ 4 | 🐛 96 | 🌐 HTML | 📅 2026-11-03 - Public board of signed AI behaviour measurements across governance and safety axes.
+* [Council of AI GSPC](https://github.com/CSOAI-ORG/councilof-ai) ⭐ 4 | 🐛 106 | 🌐 HTML | 📅 2026-11-04 - Public board of signed AI behaviour measurements across governance and safety axes.
 * [ARC Prize Leaderboard](https://arcprize.org/leaderboard) - ARC-AGI scores for frontier models and open submissions.
 * [Arena](https://arena.ai/) - Crowdsourced head-to-head model voting, formerly LMArena.
 * [CompassRank](https://rank.opencompass.org.cn/home) - OpenCompass rankings across multi-domain suites.
@@ -174,22 +174,22 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Self-Hosted
 
-* [Langfuse](https://github.com/langfuse/langfuse) ⭐ 36,943 | 🐛 1,100 | 🌐 TypeScript | 📅 2026-11-03 - Engineering platform for tracing, evals, datasets, and prompt management.
-* [Opik](https://github.com/comet-ml/opik) ⭐ 23,142 | 🐛 203 | 🌐 Python | 📅 2026-11-03 - Evaluation and observability platform with datasets, scoring jobs, and trace inspection.
-* [Arize Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 12,118 | 🐛 1,218 | 🌐 Python | 📅 2026-11-03 - OpenTelemetry-native tracing and evaluation for RAG, LLMs, and agents.
-* [Bifrost](https://github.com/maximhq/bifrost) ⭐ 9,317 | 🐛 1,443 | 🌐 Go | 📅 2026-11-03 - Self-hosted AI gateway with LLM-judge guardrails and evaluation integrations such as Patronus AI.
-* [Helicone](https://github.com/Helicone/helicone) ⭐ 6,256 | 🐛 188 | 🌐 TypeScript | 📅 2026-10-28 - AI gateway and observability platform with cost tracking and evaluation integrations.
-* [Giskard](https://github.com/giskard-ai/giskard-oss) ⭐ 5,941 | 🐛 78 | 🌐 Python | 📅 2026-11-02 - Testing library that scans LLM apps for vulnerabilities and quality issues.
-* [Latitude](https://github.com/latitude-dev/latitude-llm) ⭐ 4,744 | 🐛 115 | 🌐 TypeScript | 📅 2026-11-03 - Platform for observing agent traces and tracking recurring failures as issues.
-* [OpenLIT](https://github.com/openlit/openlit) ⭐ 2,902 | 🐛 214 | 🌐 TypeScript | 📅 2026-11-03 - OpenTelemetry instrumentation for LLM apps with quality metrics and guardrail hooks.
-* [Rhesis](https://github.com/rhesis-ai/rhesis) ⭐ 402 | 🐛 46 | 🌐 Python | 📅 2026-11-03 - Collaborative testing platform with test generation and multi-turn conversation simulation.
+* [Langfuse](https://github.com/langfuse/langfuse) ⭐ 36,991 | 🐛 1,101 | 🌐 TypeScript | 📅 2026-11-04 - Engineering platform for tracing, evals, datasets, and prompt management.
+* [Opik](https://github.com/comet-ml/opik) ⭐ 23,165 | 🐛 202 | 🌐 Python | 📅 2026-11-04 - Evaluation and observability platform with datasets, scoring jobs, and trace inspection.
+* [Arize Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 12,131 | 🐛 1,219 | 🌐 Python | 📅 2026-11-04 - OpenTelemetry-native tracing and evaluation for RAG, LLMs, and agents.
+* [Bifrost](https://github.com/maximhq/bifrost) ⭐ 9,354 | 🐛 1,445 | 🌐 Go | 📅 2026-11-04 - Self-hosted AI gateway with LLM-judge guardrails and evaluation integrations such as Patronus AI.
+* [Helicone](https://github.com/Helicone/helicone) ⭐ 6,260 | 🐛 188 | 🌐 TypeScript | 📅 2026-10-28 - AI gateway and observability platform with cost tracking and evaluation integrations.
+* [Giskard](https://github.com/giskard-ai/giskard-oss) ⭐ 5,943 | 🐛 78 | 🌐 Python | 📅 2026-11-02 - Testing library that scans LLM apps for vulnerabilities and quality issues.
+* [Latitude](https://github.com/latitude-dev/latitude-llm) ⭐ 4,745 | 🐛 114 | 🌐 TypeScript | 📅 2026-11-04 - Platform for observing agent traces and tracking recurring failures as issues.
+* [OpenLIT](https://github.com/openlit/openlit) ⭐ 2,902 | 🐛 213 | 🌐 TypeScript | 📅 2026-11-03 - OpenTelemetry instrumentation for LLM apps with quality metrics and guardrail hooks.
+* [Rhesis](https://github.com/rhesis-ai/rhesis) ⭐ 402 | 🐛 45 | 🌐 Python | 📅 2026-11-03 - Collaborative testing platform with test generation and multi-turn conversation simulation.
 * [Zeno](https://zenoml.com/) - Evaluation UI for slicing failures and comparing models and prompts.
 
 ## Resources
 
 ### Guides
 
-* [OpenAI Cookbook Evals](https://github.com/openai/openai-cookbook/tree/main/examples/evals) ⭐ 76,935 | 🐛 349 | 🌐 Jupyter Notebook | 📅 2026-11-03 - Notebooks showing how to build custom evals.
+* [OpenAI Cookbook Evals](https://github.com/openai/openai-cookbook/tree/main/examples/evals) ⭐ 76,947 | 🐛 351 | 🌐 Jupyter Notebook | 📅 2026-11-04 - Notebooks showing how to build custom evals.
 * [AI Failure Mode Taxonomy](https://github.com/prashibadkur11-creator/ai-failure-mode-taxonomy) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-08 - Catalog of AI and LLM product failure modes with detection and mitigation for each.
 * [AI Evals for Engineers & PMs](https://maven.com/parlance-labs/evals) - Cohort course by Hamel Husain and Shreya Shankar.
 * [AlignEval](https://eugeneyan.com/writing/aligneval/) - Eugene Yan on building and aligning LLM judges.
@@ -215,8 +215,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 ### Lists
 
 * [LLM Evaluation Survey](https://github.com/MLGroupJLU/LLM-eval-survey) ⭐ 1,615 | 🐛 6 | 📅 2026-10-28 - Papers organized by the survey "A Survey on Evaluation of Large Language Models".
-* [Awesome Agent Evals](https://github.com/benchflow-ai/awesome-evals) ⭐ 1,022 | 🐛 76 | 📅 2026-10-27 - Annotated papers, posts, talks, tools, and benchmarks for building and evaluating AI agents.
-* [Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval) ⭐ 659 | 🐛 71 | 📅 2025-11-24 - Evaluation tools, papers, datasets, and leaderboards, in Chinese and English.
+* [Awesome Agent Evals](https://github.com/benchflow-ai/awesome-evals) ⭐ 1,024 | 🐛 78 | 📅 2026-11-03 - Annotated papers, posts, talks, tools, and benchmarks for building and evaluating AI agents.
+* [Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval) ⭐ 659 | 🐛 72 | 📅 2025-11-24 - Evaluation tools, papers, datasets, and leaderboards, in Chinese and English.
 * [Awesome-LLM-as-a-judge](https://github.com/llm-as-a-judge/Awesome-LLM-as-a-judge) ⭐ 583 | 🐛 6 | 📅 2026-05-21 - Papers on using LLMs as judges, from the accompanying survey.
 * [Awesome-RAG-Evaluation](https://github.com/YHPeter/Awesome-RAG-Evaluation) ⭐ 200 | 🐛 5 | 🌐 TeX | 📅 2026-10-25 - RAG evaluation metrics, datasets, and leaderboards.
 * [LLM-Agent-Benchmark-List](https://github.com/zhangxjohn/LLM-Agent-Benchmark-List) ⭐ 173 | 🐛 5 | 📅 2026-10-27 - Benchmarks for evaluating LLMs and LLM-based agents.
@@ -237,46 +237,46 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Adversarial
 
-* [Garak](https://github.com/NVIDIA/garak) ⭐ 9,842 | 🐛 542 | 🌐 Python | 📅 2026-11-02 - NVIDIA vulnerability scanner that probes LLMs for prompt injection, leakage, and jailbreaks.
-* [PyRIT](https://github.com/microsoft/PyRIT) ⭐ 4,734 | 🐛 292 | 🌐 Python | 📅 2026-11-03 - Microsoft toolkit for automating attack strategies against generative AI systems.
-* [DeepTeam](https://github.com/confident-ai/deepteam) ⭐ 3,084 | 🐛 82 | 🌐 Python | 📅 2026-10-23 - Red teaming framework for bias, data leakage, and prompt-injection vulnerabilities.
+* [Garak](https://github.com/NVIDIA/garak) ⭐ 9,855 | 🐛 544 | 🌐 Python | 📅 2026-11-02 - NVIDIA vulnerability scanner that probes LLMs for prompt injection, leakage, and jailbreaks.
+* [PyRIT](https://github.com/microsoft/PyRIT) ⭐ 4,744 | 🐛 311 | 🌐 Python | 📅 2026-11-04 - Microsoft toolkit for automating attack strategies against generative AI systems.
+* [DeepTeam](https://github.com/confident-ai/deepteam) ⭐ 3,086 | 🐛 84 | 🌐 Python | 📅 2026-10-23 - Red teaming framework for bias, data leakage, and prompt-injection vulnerabilities.
 * [Petri](https://github.com/meridianlabs-ai/inspect_petri) ⭐ 1,402 | 🐛 43 | 🌐 Python | 📅 2026-11-01 - Auditing agent that explores model behavior through simulated multi-turn scenarios.
-* [AgentDojo](https://github.com/ethz-spylab/agentdojo) ⭐ 984 | 🐛 96 | 🌐 Python | 📅 2026-06-02 - Environment for testing prompt-injection attacks and defenses on tool-using agents.
+* [AgentDojo](https://github.com/ethz-spylab/agentdojo) ⭐ 987 | 🐛 98 | 🌐 Python | 📅 2026-06-02 - Environment for testing prompt-injection attacks and defenses on tool-using agents.
 
 ### Frameworks
 
-* [ColossalEval](https://github.com/hpcaitech/ColossalAI/tree/main/applications/ColossalEval) ⭐ 41,434 | 🐛 489 | 🌐 Python | 📅 2026-11-03 - Pipeline combining classic metrics with GPT-assisted scoring across public datasets.
-* [MLflow](https://github.com/mlflow/mlflow) ⭐ 28,643 | 🐛 2,225 | 🌐 Python | 📅 2026-11-03 - Evaluation API that logs judge scores alongside experiment tracking runs.
-* [Promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 26,775 | 🐛 907 | 🌐 TypeScript | 📅 2026-11-03 - CLI for testing and red teaming prompts, RAG flows, and agents with regression detection.
-* [OpenAI Evals](https://github.com/openai/evals) ⭐ 19,691 | 🐛 351 | 🌐 Python | 📅 2026-04-14 - Framework and registry of evals for LLMs and LLM systems.
-* [DeepEval](https://github.com/confident-ai/deepeval) ⭐ 19,270 | 🐛 800 | 🌐 Python | 📅 2026-11-02 - Unit-test style metrics for hallucination, relevance, toxicity, and bias.
-* [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) ⭐ 14,386 | 🐛 1,286 | 🌐 Python | 📅 2026-09-14 - Harness for running language models on hundreds of academic benchmarks.
+* [ColossalEval](https://github.com/hpcaitech/ColossalAI/tree/main/applications/ColossalEval) ⭐ 41,432 | 🐛 486 | 🌐 Python | 📅 2026-11-04 - Pipeline combining classic metrics with GPT-assisted scoring across public datasets.
+* [MLflow](https://github.com/mlflow/mlflow) ⭐ 28,656 | 🐛 2,216 | 🌐 Python | 📅 2026-11-04 - Evaluation API that logs judge scores alongside experiment tracking runs.
+* [Promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 26,819 | 🐛 913 | 🌐 TypeScript | 📅 2026-11-04 - CLI for testing and red teaming prompts, RAG flows, and agents with regression detection.
+* [OpenAI Evals](https://github.com/openai/evals) ⭐ 19,702 | 🐛 351 | 🌐 Python | 📅 2026-04-14 - Framework and registry of evals for LLMs and LLM systems.
+* [DeepEval](https://github.com/confident-ai/deepeval) ⭐ 19,290 | 🐛 805 | 🌐 Python | 📅 2026-11-04 - Unit-test style metrics for hallucination, relevance, toxicity, and bias.
+* [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) ⭐ 14,398 | 🐛 1,294 | 🌐 Python | 📅 2026-09-14 - Harness for running language models on hundreds of academic benchmarks.
 * [Prompt Flow](https://github.com/microsoft/promptflow) ⭐ 11,260 | 🐛 71 | 🌐 Python | 📅 2026-10-31 - Flow builder with built-in evaluation flows and CI integration.
-* [Evidently](https://github.com/evidentlyai/evidently) ⭐ 8,032 | 🐛 353 | 🌐 Jupyter Notebook | 📅 2026-09-29 - Evaluation and monitoring library for ML and LLM systems.
-* [OpenCompass](https://github.com/open-compass/opencompass) ⭐ 7,563 | 🐛 337 | 🌐 Python | 📅 2026-11-03 - Evaluation platform with LLM judge support across knowledge, reasoning, and coding datasets.
-* [Harbor](https://github.com/harbor-framework/harbor) ⭐ 6,753 | 🐛 1,208 | 🌐 Python | 📅 2026-11-03 - Framework for evaluating and optimizing agents and models in containers; the official Terminal-Bench 2.0 harness.
-* [OpenAI simple-evals](https://github.com/openai/simple-evals) ⭐ 4,691 | 🐛 77 | 🌐 Python | 📅 2026-04-22 - Reference implementations of standard benchmarks such as MMLU, GPQA, and HumanEval.
-* [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) ⭐ 4,479 | 🐛 34 | 🌐 Python | 📅 2026-11-03 - Multimodal evaluation toolkit covering text, image, video, and audio tasks.
-* [EvalScope](https://github.com/modelscope/evalscope) ⭐ 3,640 | 🐛 17 | 🌐 Python | 📅 2026-11-03 - ModelScope framework for evaluating and benchmarking LLMs, vision-language models, and generative models.
-* [TruLens](https://github.com/truera/trulens) ⭐ 3,626 | 🐛 135 | 🌐 Python | 📅 2026-11-03 - Feedback functions for evaluating and tracing chains and agents.
-* [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) ⭐ 3,157 | 🐛 506 | 🌐 Python | 📅 2026-11-03 - UK AI Security Institute framework for scripted evals with tool calls and model-graded scoring.
-* [ChainForge](https://github.com/ianarawjo/ChainForge) ⭐ 3,040 | 🐛 70 | 🌐 TypeScript | 📅 2026-10-29 - Visual environment for comparing prompts and models and scoring responses.
-* [HELM](https://github.com/stanford-crfm/helm) ⭐ 2,964 | 🐛 120 | 🌐 Python | 📅 2026-09-01 - Stanford framework for evaluating foundation models across scenarios and metrics.
+* [Evidently](https://github.com/evidentlyai/evidently) ⭐ 8,038 | 🐛 354 | 🌐 Jupyter Notebook | 📅 2026-09-29 - Evaluation and monitoring library for ML and LLM systems.
+* [OpenCompass](https://github.com/open-compass/opencompass) ⭐ 7,565 | 🐛 338 | 🌐 Python | 📅 2026-11-04 - Evaluation platform with LLM judge support across knowledge, reasoning, and coding datasets.
+* [Harbor](https://github.com/harbor-framework/harbor) ⭐ 6,779 | 🐛 1,206 | 🌐 Python | 📅 2026-11-04 - Framework for evaluating and optimizing agents and models in containers; the official Terminal-Bench 2.0 harness.
+* [OpenAI simple-evals](https://github.com/openai/simple-evals) ⭐ 4,693 | 🐛 77 | 🌐 Python | 📅 2026-04-22 - Reference implementations of standard benchmarks such as MMLU, GPQA, and HumanEval.
+* [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) ⭐ 4,483 | 🐛 32 | 🌐 Python | 📅 2026-11-04 - Multimodal evaluation toolkit covering text, image, video, and audio tasks.
+* [EvalScope](https://github.com/modelscope/evalscope) ⭐ 3,645 | 🐛 20 | 🌐 Python | 📅 2026-11-04 - ModelScope framework for evaluating and benchmarking LLMs, vision-language models, and generative models.
+* [TruLens](https://github.com/truera/trulens) ⭐ 3,627 | 🐛 142 | 🌐 Python | 📅 2026-11-03 - Feedback functions for evaluating and tracing chains and agents.
+* [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) ⭐ 3,167 | 🐛 488 | 🌐 Python | 📅 2026-11-04 - UK AI Security Institute framework for scripted evals with tool calls and model-graded scoring.
+* [ChainForge](https://github.com/ianarawjo/ChainForge) ⭐ 3,041 | 🐛 70 | 🌐 TypeScript | 📅 2026-10-29 - Visual environment for comparing prompts and models and scoring responses.
+* [HELM](https://github.com/stanford-crfm/helm) ⭐ 2,964 | 🐛 122 | 🌐 Python | 📅 2026-09-01 - Stanford framework for evaluating foundation models across scenarios and metrics.
 * [lighteval](https://github.com/huggingface/lighteval) ⭐ 2,578 | 🐛 480 | 🌐 Python | 📅 2026-10-29 - Hugging Face toolkit for evaluating LLMs across many backends and tasks.
-* [Bloom](https://github.com/safety-research/bloom) ⭐ 1,427 | 🐛 9 | 🌐 Python | 📅 2026-05-07 - Agentic framework that generates behavioral evaluations of frontier models from a described behavior.
+* [Bloom](https://github.com/safety-research/bloom) ⭐ 1,428 | 🐛 9 | 🌐 Python | 📅 2026-05-07 - Agentic framework that generates behavioral evaluations of frontier models from a described behavior.
 * [openevals](https://github.com/langchain-ai/openevals) ⭐ 1,242 | 🐛 24 | 🌐 Python | 📅 2026-11-02 - Evaluators for LLM apps, including LLM judge and structured-output checks.
 * [autoevals](https://github.com/braintrustdata/autoevals) ⭐ 1,070 | 🐛 56 | 🌐 Python | 📅 2026-10-30 - Scorers for LLM outputs, from string heuristics to model-graded factuality, in Python and TypeScript.
-* [OpenJudge](https://github.com/agentscope-ai/OpenJudge) ⭐ 1,035 | 🐛 13 | 🌐 Python | 📅 2026-11-03 - Framework of graders for evaluating agents and chatbots and producing quality rewards.
-* [Inspect Evals](https://github.com/UKGovernmentBEIS/inspect_evals) ⭐ 732 | 🐛 260 | 🌐 Python | 📅 2026-11-03 - Community-maintained collection of evaluations implemented in Inspect AI.
-* [agenttrace](https://github.com/luoyuctl/agenttrace) ⭐ 154 | 🐛 5 | 🌐 Rust | 📅 2026-11-02 - Terminal UI for reviewing coding-agent sessions by cost, failures, latency, and diffs.
+* [OpenJudge](https://github.com/agentscope-ai/OpenJudge) ⭐ 1,047 | 🐛 14 | 🌐 Python | 📅 2026-11-03 - Framework of graders for evaluating agents and chatbots and producing quality rewards.
+* [Inspect Evals](https://github.com/UKGovernmentBEIS/inspect_evals) ⭐ 732 | 🐛 264 | 🌐 Python | 📅 2026-11-04 - Community-maintained collection of evaluations implemented in Inspect AI.
+* [agenttrace](https://github.com/luoyuctl/agenttrace) ⭐ 154 | 🐛 6 | 🌐 Rust | 📅 2026-11-03 - Terminal UI for reviewing coding-agent sessions by cost, failures, latency, and diffs.
 * [skill-optimizer](https://github.com/fastxyz/skill-optimizer) ⭐ 83 | 🐛 15 | 🌐 TypeScript | 📅 2026-05-28 - Docker workbench and agent skill for running deterministic evals against agent skills.
-* [Aleph Alpha Eval Framework](https://github.com/Aleph-Alpha-Research/eval-framework) ⭐ 46 | 🐛 12 | 🌐 Python | 📅 2026-11-03 - Evaluation framework with built-in benchmarks for reasoning, coding, and safety.
+* [Aleph Alpha Eval Framework](https://github.com/Aleph-Alpha-Research/eval-framework) ⭐ 46 | 🐛 12 | 🌐 Python | 📅 2026-11-04 - Evaluation framework with built-in benchmarks for reasoning, coding, and safety.
 * [Agentrial](https://github.com/alepot55/agentrial) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2026-02-06 - Runs agents repeatedly, computes confidence intervals, and flags regressions in CI.
-* [digline](https://github.com/digline/digline) ⭐ 9 | 🐛 2 | 🌐 Python | 📅 2026-11-03 - Regression testing for LLM apps against a versioned baseline of approved scores.
+* [digline](https://github.com/digline/digline) ⭐ 9 | 🐛 4 | 🌐 Python | 📅 2026-11-04 - Regression testing for LLM apps against a versioned baseline of approved scores.
 * [Agent Stack](https://github.com/MukundaKatta/agent-stack) ⭐ 6 | 🐛 0 | 🌐 HTML | 📅 2026-06-13 - Libraries for agent reliability, including snapshot tests for tool-call traces, tool-argument validation, and structured output with retry.
 * [Voice Eval](https://github.com/rand0wn/voice-eval) ⭐ 6 | 🐛 26 | 🌐 Python | 📅 2026-08-19 - Regression harness for voice agents using scripted multi-turn scenarios.
 * [semantix-ai](https://github.com/labrat-akhona/semantix-ai) ⭐ 5 | 🐛 2 | 🌐 Python | 📅 2026-09-16 - NLI judges, datasets, and audit trails for checking LLM outputs against regulatory clauses.
-* [agentest](https://github.com/srpadmanabhuni/agentest) ⭐ 2 | 🐛 8 | 🌐 Python | 📅 2026-11-02 - Offline, deterministic checks of agent OpenTelemetry traces, A2A AgentCards, and MCP tools, with no LLM judge.
+* [agentest](https://github.com/srpadmanabhuni/agentest) ⭐ 2 | 🐛 9 | 🌐 Python | 📅 2026-11-04 - Offline, deterministic checks of agent OpenTelemetry traces, A2A AgentCards, and MCP tools, with no LLM judge.
 * [AI Eval Forge](https://github.com/MukundaKatta/ai-eval-forge) ⭐ 1 | 🐛 4 | 🌐 Python | 📅 2026-07-25 - Regression harness for LLM and agent outputs using deterministic checks such as regex, token F1, and JSON validity.
 * [align](https://github.com/ggrigo/align) ⭐ 1 | 🐛 3 | 🌐 HTML | 📅 2026-07-18 - Human-in-the-loop evals for Claude Code that rate individual claims and archive corrections.
 * [AI Prompt Quality](https://github.com/pntkrl/ai-prompt-quality) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-01 - Static prompt evaluation with a seven-dimension rubric and JSON scoring schema.
@@ -285,11 +285,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Retrieval
 
-* [Ragas](https://github.com/vibrantlabsai/ragas) ⭐ 16,224 | 🐛 649 | 🌐 Python | 📅 2026-02-24 - Metrics for answer quality, context relevance, and faithfulness in RAG pipelines.
-* [UltraRAG](https://github.com/OpenBMB/UltraRAG) ⭐ 5,738 | 🐛 17 | 🌐 Python | 📅 2026-11-02 - MCP-based RAG framework with built-in evaluation workflows.
-* [MTEB](https://github.com/embeddings-benchmark/mteb) ⭐ 3,491 | 🐛 344 | 🌐 Python | 📅 2026-11-03 - Embedding benchmark measuring retrieval, reranking, and similarity quality.
+* [Ragas](https://github.com/vibrantlabsai/ragas) ⭐ 16,232 | 🐛 651 | 🌐 Python | 📅 2026-02-24 - Metrics for answer quality, context relevance, and faithfulness in RAG pipelines.
+* [UltraRAG](https://github.com/OpenBMB/UltraRAG) ⭐ 5,738 | 🐛 17 | 🌐 Python | 📅 2026-11-04 - MCP-based RAG framework with built-in evaluation workflows.
+* [MTEB](https://github.com/embeddings-benchmark/mteb) ⭐ 3,493 | 🐛 342 | 🌐 Python | 📅 2026-11-03 - Embedding benchmark measuring retrieval, reranking, and similarity quality.
 * [BEIR](https://github.com/beir-cellar/beir) ⭐ 2,328 | 🐛 88 | 🌐 Python | 📅 2025-10-16 - Benchmark suite covering dense, sparse, and hybrid retrieval tasks.
-* [Open RAG Eval](https://github.com/vectara/open-rag-eval) ⭐ 419 | 🐛 18 | 🌐 Python | 📅 2026-10-08 - Vectara harness with UMBRELA and AutoNuggetizer metrics that need no golden answers.
+* [Open RAG Eval](https://github.com/vectara/open-rag-eval) ⭐ 420 | 🐛 18 | 🌐 Python | 📅 2026-10-08 - Vectara harness with UMBRELA and AutoNuggetizer metrics that need no golden answers.
 * [RAGTruth](https://github.com/ParticleMedia/RAGTruth) ⭐ 286 | 🐛 6 | 🌐 Python | 📅 2024-12-02 - Human-annotated hallucination corpus for RAG answers.
 * [RagCiteCheck](https://github.com/ppon1086/ragcitecheck) ⭐ 6 | 🐛 3 | 🌐 Python | 📅 2026-05-26 - Measures document-level and span-level evidence stability in RAG pipelines across runs.
 * [LlamaIndex Evaluation](https://developers.llamaindex.ai/python/framework/module_guides/evaluating/) - Modules for scoring retrievers and comparing query engines.
@@ -298,4 +298,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
